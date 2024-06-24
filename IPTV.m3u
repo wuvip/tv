@@ -459,3 +459,15 @@ http://live.redtraffic.xyz:80/pov.m3u8
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 
 
+#EXTINF:-1 logo="" group-title="" ,CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?$超清1080P
+#EXTINF:-1 logo="" group-title="" ,CHC高清电影
+http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8?$超清1080P
+#EXTINF:-1 logo="" group-title="" ,CHC家庭影院-01
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8?$超清1080P
+#EXTINF:-1 logo="" group-title="" ,CHC家庭影院-02
+http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8?$超清1080P
+#EXTINF:-1 logo="" group-title="" ,TVB影视剧场
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8?$高清720P
+#EXTINF:-1 logo="" group-title="" ,Y＋影院
+http://live.aikan.miguvideo.com:80/PLTV/88888888/224/3221230226/index.m3u8?$超清1080P
