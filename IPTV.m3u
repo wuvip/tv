@@ -250,6 +250,14 @@ http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167
 #EXTINF:-1 tvg-id="大爱1" tvg-name="大爱1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
+#EXTINF:-1 tvg-id="中视新闻[HD]" tvg-name="中视新闻[HD]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",中视新闻[HD]
+http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+#EXTINF:-1 tvg-id="东森新闻[HD]" tvg-name="东森新闻[HD]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",东森新闻[HD]
+http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻[HD]" tvg-name="寰宇新闻[HD]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",寰宇新闻[HD]
+http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.m3u8
+
+
 
 
 
