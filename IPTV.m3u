@@ -253,21 +253,21 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="•海外「IPV6」",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-
-#EXTINF:-1 tvg-id="中视在线HD" tvg-name="中视在线HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",中视在线HD
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" group-title="•海外「IPV6」",東森新聞
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-id="中视在线HD" tvg-name="中视在线HD" group-title="•海外「IPV6」",中视在线HD
 http://37.27.111.214:8080/live/7/hls.m3u8
-
-
-
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",三立新闻
-http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",东森新闻
-http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",好莱坞电影
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" group-title="•海外「IPV6」",TVBS HD
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 tvg-id="RT新闻" tvg-name="RT新闻" group-title="•海外「IPV6」",RT新闻
+https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="CBN新闻" tvg-name="CBN新闻" group-title="•海外「IPV6」",CBN新闻
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影" group-title="•海外「IPV6」",好莱坞电影
 http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",无线财经
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" group-title="•海外「IPV6」",无线财经
 http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-#EXTINF:-1 tvg-id="大爱1" tvg-name="大爱1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="•海外「IPV6」",大爱1
+#EXTINF:-1 tvg-id="大爱1" tvg-name="大爱1" group-title="•海外「IPV6」",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 
